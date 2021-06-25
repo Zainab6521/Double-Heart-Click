@@ -27,7 +27,7 @@ small {
 .loveMe {
     height: 440px;
     width: 300px;
-    background: url('');
+    background: url('https://images.unsplash.com/photo-1611410502206-f06ef260a129?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80');
     margin: auto;
     cursor: pointer;
     max-width: 100%;
